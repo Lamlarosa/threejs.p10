@@ -1,9 +1,9 @@
 # Tugas Mandiri Pertemuan 10 - Three.js Deep Dive
 
-**Nama:** Alam Larosa
-**NIM:** 2305010028
-**Mata Kuliah:** Pengembangan Game dan Teknologi Immersive  
-**Program Studi:** Teknologi Rekayasa Perangkat Lunak (TRPL)  
+**Nama:** Alam Larosa <br>
+**NIM:** 2305010028 <br>
+**Mata Kuliah:** Pengembangan Game dan Teknologi Immersive <br>
+**Program Studi:** Teknologi Rekayasa Perangkat Lunak (TRPL)
 
 ## Tema Scene: Observasi Lingkungan Alam (Gunung, Laut, Langit)
 Scene ini mensimulasikan pulau kecil dengan pencahayaan dinamis dan interaksi komponen alam.
